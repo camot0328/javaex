@@ -3,6 +3,7 @@ public class SwitchDamo {
     whoIsIt("호랑이");
     whoIsIt("참새");
     whoIsIt("고등어");
+    whoIsIt("고양이");
   } // end of main method 여기가 하나의 메소드의 끝부분
 
   static void whoIsIt(String animal) {
