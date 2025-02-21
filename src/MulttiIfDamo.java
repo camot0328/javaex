@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class multtIIFDamo {
+public class MulttiIfDamo {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     System.out.print("점수를 입력하세요(0~100) : ");
